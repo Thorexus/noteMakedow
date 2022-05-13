@@ -24,11 +24,18 @@
 ```text
     The tall white mask and suited man walking in the room.
 ```
-<h1 align="center"><img src="https://i.ibb.co/89KBk39/suit-white-mask.png"/></h1>
+<h1 align="center"><img  src="https://i.ibb.co/89KBk39/suit-white-mask.png"              style="object-fit:scale-down;width:200px;height:300px;"/></h1>
 
 # <p align="center" style="color:CornflowerBlue">but...</p>
 
-```text
-    As all you can see from the example above. The man can be imagine more clearly.
-```
+> how can you tell which order of <span style="color:CornflowerBlue">adjectives</span> that will be using within the sentence or conversation.
+
+> here are the orders which will be always follow when using <span style="color:CornflowerBlue">adjectives</span>
+
+<p align="center" style="color:CornflowerBlue">V</p>
+
+<h1 align="center"><img  src="https://i.ibb.co/tcDfZm0/line-oa-chat-220513-215521.jpg"    style="object-fit:scale-down;width:6000px;height:200px;"/></h1>
+
+
+
 
