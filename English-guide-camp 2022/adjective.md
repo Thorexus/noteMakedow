@@ -34,7 +34,7 @@
 
 <p align="center" style="color:CornflowerBlue">V</p>
 
-<h1 align="center"><img  src="https://i.ibb.co/tcDfZm0/line-oa-chat-220513-215521.jpg"    style="object-fit:scale-down;width:600px;height:200px;"/></h1>
+<h1 align="center"><img  src="https://i.ibb.co/tcDfZm0/line-oa-chat-220513-215521.jpg"style="object-fit:scale-down;width:800px;height:300px;"/></h1>
 
 ## 1. Determiner
 ### Determiner will tell you what would be the article of you noun.
