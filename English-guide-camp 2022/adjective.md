@@ -6,3 +6,9 @@
 
 example: 
  > tallness: describing some how tall a person is an ```Adjective```
+
+ > The tall man walking into the room.
+
+> Now that the person you are talking to is know who to look at <span style="color:DarkCyan">some *blue* text</span>. to look out for.
+
+
