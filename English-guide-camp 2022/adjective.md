@@ -49,3 +49,17 @@
 ```
 <h1 align="center"><img  src="https://i.ibb.co/T821LDn/suit-white-mask.png"    style="object-fit:scale-down;width:270px;height:270px;"/></h1>
 
+## 2. Quanity or Number
+### Quanity or Number will tell the listen how many/much of the noun is being talk about.
+
+> **_NOTE:_**  much : uncountable noun :: hair, sand , money | many : countable noun :: stick(s), chair(s), dog(s)
+
+### example : 3
+
+```text
+    This is Jenny's four wheels excape car.
+```
+<h1 align="center"><img  src="https://i.ibb.co/wNXMNwV/drive.jpg"    style="object-fit:scale-down;width:500px;height:250px;"/></h1>
+
+
+
