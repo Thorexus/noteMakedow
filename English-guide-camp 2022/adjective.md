@@ -50,14 +50,26 @@
 <h1 align="center"><img  src="https://i.ibb.co/T821LDn/suit-white-mask.png"    style="object-fit:scale-down;width:270px;height:270px;"/></h1>
 
 ## 2. Quanity or Number
-### Quanity or Number will tell the listen how many/much of the noun is being talk about.
+### Quanity or Number will tell the listener how many/much of the noun is being talk about.
 
 > **_NOTE:_**  much : uncountable noun :: hair, sand , money | many : countable noun :: stick(s), chair(s), dog(s)
 
 ### example : 4
 
 ```text
-    This is Jenny's four wheels excape car.
+    This is Jenny's four wheels escape car.
+```
+<h1 align="center"><img  src="https://i.ibb.co/wNXMNwV/drive.jpg"    style="object-fit:scale-down;width:600px;height:250px;"/></h1>
+
+## 3. Quality or Opinion
+### Quality or Opinion will tell the listener <strong style="color:DarkCyan; bold">what is the property or describe what the speaker think</strong> of the noun is being talk about.
+
+> **_NOTE:_**  quality: good, fine, bad, strong | opinion : beautiful, ugly, awesome
+
+### example : 5
+
+```text
+    This is Jenny's strong escape car.
 ```
 <h1 align="center"><img  src="https://i.ibb.co/wNXMNwV/drive.jpg"    style="object-fit:scale-down;width:600px;height:250px;"/></h1>
 
