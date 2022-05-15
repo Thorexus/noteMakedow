@@ -80,12 +80,36 @@
 
 <img  src="https://i5.walmartimages.com/asr/ac8a7703-1169-41d9-b09f-5ae91fb8445a.65ea7bd95136fdb82d341a91d67e6021.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" style="object-fit:scale-down;width:500px;height:475px;"/>
 
-### example : 5
+### example : 6
 
 ```text
     This is a medium iron stick.
 ```
 <h1 align="center"><img  src="https://www.skyhi.me.uk/image/cache/catalog/Products/Fetish/But-Truncheon/American-Baseball-Bat-Long-2-400x537w.jpg" style="object-fit:scale-down;width:500px;height:475px;"/></h1>
+
+## 5. Age
+### age will give the listener the sense of <strong style="color:DarkCyan; bold">length of time that a person has lived or a thing has existed</strong> of the noun is being talk about.
+
+> **_NOTE:_**  age : young, old, juvenile, senior
+
+> age can be number too!
+
+### example : 7
+
+```text
+    Qusetion : When was the day your son first spoken?
+    Answer : He start speaking in the age of 2.
+```
+
+
+<img  src="https://images.squarespace-cdn.com/content/v1/582895e029687f3584663597/1514919557150-U4NW2YCT83RRBAE2BG3L/ballet-body-sculture-anti-aging" style="object-fit:scale-down;width:500px;height:250px;"/>
+
+### example : 8
+
+```text
+   I am an old man I might slow you down.
+```
+<h1 align="center"><img  src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12AD9/production/_112950567_6.jpg" style="object-fit:scale-down;width:600px;height:250px;"/></h1>
 
 
 
