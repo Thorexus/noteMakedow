@@ -78,7 +78,7 @@
 
 > **_NOTE:_**  size: big, large, small, tiny, medium
 
-<img  src="https://i5.walmartimages.com/asr/ac8a7703-1169-41d9-b09f-5ae91fb8445a.65ea7bd95136fdb82d341a91d67e6021.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" style="object-fit:scale-down;width:500px;height:475px;"/>
+<h1 align="center"><img  src="https://i5.walmartimages.com/asr/ac8a7703-1169-41d9-b09f-5ae91fb8445a.65ea7bd95136fdb82d341a91d67e6021.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" style="object-fit:scale-down;width:500px;height:475px;"/></h1>
 
 ### example : 6
 
@@ -102,7 +102,7 @@
 ```
 
 
-<img  src="https://images.squarespace-cdn.com/content/v1/582895e029687f3584663597/1514919557150-U4NW2YCT83RRBAE2BG3L/ballet-body-sculture-anti-aging" style="object-fit:scale-down;width:500px;height:250px;"/>
+<h1 align="center"><img  src="https://images.squarespace-cdn.com/content/v1/582895e029687f3584663597/1514919557150-U4NW2YCT83RRBAE2BG3L/ballet-body-sculture-anti-aging" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
 
 ### example : 8
 
