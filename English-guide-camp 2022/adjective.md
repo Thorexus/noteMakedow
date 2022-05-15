@@ -2,7 +2,7 @@
 
 # <p style="color:DarkCyan">What is Adjective?</p>
 
-### "Adjective are words we use to describe noue to tell, one specific thing (distinct from others)"
+### "Adjective are words we use to describe noun on one specific thing (distinct from others)"
 
 ### example : 1
 
@@ -13,14 +13,14 @@
     The tall man walking into the room.
 ```
 
-> Now that the person you are talking to is know who to look at <span style="color:DarkCyan">or</span> to look out for.
+> Now that the person you are talking to getting the knowledge of who to look at <span style="color:DarkCyan">or</span> to look out for.
 
 
 > Let look at one of the more interesting  
 
 ### example : 2
 
-> As all you can see from the example above. The man can be imagine more clearly.
+> As all you can see from the example above. The man can be imagine more clearly by giving him more description.
 ```text
     The tall white mask and suited man walking in the room.
 ```
@@ -71,7 +71,21 @@
 ```text
     This is John's strong escape monster truck.
 ```
-<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:5000px;height:475px;"/></h1>
+<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:500px;height:475px;"/></h1>
+
+## 4. Size
+### Size will give the listener the vitualization of the object <strong style="color:DarkCyan; bold">overall dimensions</strong> of the noun is being talk about.
+
+> **_NOTE:_**  size: big, large, small, tiny, medium
+
+<img  src="https://i5.walmartimages.com/asr/ac8a7703-1169-41d9-b09f-5ae91fb8445a.65ea7bd95136fdb82d341a91d67e6021.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" style="object-fit:scale-down;width:500px;height:475px;"/>
+
+### example : 5
+
+```text
+    This is a medium iron stick.
+```
+<h1 align="center"><img  src="https://www.skyhi.me.uk/image/cache/catalog/Products/Fetish/But-Truncheon/American-Baseball-Bat-Long-2-400x537w.jpg" style="object-fit:scale-down;width:500px;height:475px;"/></h1>
 
 
 
