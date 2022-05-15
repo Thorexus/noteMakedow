@@ -71,7 +71,7 @@
 ```text
     This is John's strong escape monster truck.
 ```
-<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:450px;height:450px;"/></h1>
+<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:5000px;height:450px;"/></h1>
 
 
 
