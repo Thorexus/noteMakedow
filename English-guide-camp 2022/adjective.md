@@ -69,9 +69,9 @@
 ### example : 5
 
 ```text
-    This is Jenny's strong escape car.
+    This is John's strong escape monster truck.
 ```
-<h1 align="center"><img  src="https://i.ibb.co/wNXMNwV/drive.jpg"    style="object-fit:scale-down;width:600px;height:250px;"/></h1>
+<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:450px;height:450px;"/></h1>
 
 
 
