@@ -219,7 +219,7 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
 ```
 > proper adjective : `wooden`  `mean : something that made from wood`
 
-<h1 align="center"><img  src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" style="object-fit:scale-down;width:200px;"/></h1>
+<h1 align="center"><img  src="https://i.ibb.co/3NyXVLh/Daco-1111002.png" style="object-fit:scale-down;width:200px;"/></h1>
 
 ## 7. Purpose or Qualifier
 
