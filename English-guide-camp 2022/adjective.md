@@ -216,7 +216,8 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
   This is wooden baseball bat that used to be play 30 years ago.
 ```
 > proper adjective : `wooden`  `mean : something that made from wood`
-<h1 align="center"><img  src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" style="object-fit:scale-down;width:200px;"/></h1>
+
+<a href="https://ibb.co/B4ZVPkc"><img src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" alt="dlf-pt-bryce-harper-png-5759733" border="0"></a>
 
 ## 7. Purpose or Qualifier
 
