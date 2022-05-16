@@ -171,10 +171,35 @@ Gray
 > the word "color" can be use as "verb" too. example : I colored my room yesterday. 
 <h1 align="center"><img  src="https://kaleela.com/wp-content/uploads/2019/08/Most-Common-Colors-In-Arabic-Language.jpg" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
 
-### example : 9
+### example : 10
 
 ```text
-   This is midnight news we are looking at the circular object in the sky right now.
+  Her green escape truck is very cool.
 ```
 
-<h1 align="center"><img  src="https://cdn.images.express.co.uk/img/dynamic/80/750x445/1128973.jpg" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
+<h1 align="center"><img  src="https://cdn.hum3d.com/wp-content/uploads/2019/10/07/dystopian_zombie_truck.jpg" style="object-fit:scale-down;width:500px;"/></h1>
+
+## 7. Proper Adjective
+
+### Proper adjective is an adjective which describe  <strong style="color:DarkCyan; bold"> people, places and things, but they are based on names </strong> of the noun is being talk about
+
+> **_NOTE:_**  
+Proper adjective can be : name of country/planet origin, name of nationalities, or the origin material making of that object.
+
+> **_NOTE:_**  Proper adjective which are base on names must be Capitalized. 
+
+### example : 11 : name of country/planet origin
+```text
+  This is the first time we will meet the Martian man.
+```
+> adjective : `Martian`  `mean : a race of people who lives on Mars`
+### example : 12 : name of nationalities
+```text
+  That Spanish man always has a crossbow with him.
+```
+### example : 13 : the origin material
+```text
+  Her green escape truck is very cool.
+```
+
+<h1 align="center"><img  src="https://cdn.hum3d.com/wp-content/uploads/2019/10/07/dystopian_zombie_truck.jpg" style="object-fit:scale-down;width:500px;"/></h1>
