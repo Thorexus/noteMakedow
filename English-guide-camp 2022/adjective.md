@@ -218,4 +218,34 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
 > proper adjective : `wooden`  `mean : something that made from wood`
 <h1 align="center"><img  src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" style="object-fit:scale-down;width:200px;"/></h1>
 
+## 7. Purpose or Qualifier
+
+### Purpose or Qualifier is an adjective which describe  <strong style="color:DarkCyan; bold"> the purspose or duty</strong> of the noun is being talk about made for.
+
+> **_NOTE:_**  
+Purpose or Qualifier can be name of sport or verb describing its function.
+
+> Purpose : `cutting`  `triming` `killing`
+
+> Qualifier / name of sport : `for skating` `racing` `climbing` `hiking`
+
+### example : 14 : Purspose of object
+```text
+    This the new cutting board the cutter 800s.
+```
+> purpose : `cutting`  `mean : something with cutting related in mind`
+
+<h1 align="center"><img  src="https://thelastnewspaper.com/wp-content/uploads/2012/05/Digital-Almighty-Cutting-Board-future-kitchen-Jaewan-Jeong-01.jpg" style="object-fit:scale-down;width:200px;"/></h1>
+
+### example : 15 : Duty of object
+```text
+  This is wooden zombie killing baseball bat .
+```
+
+> duty of object : `zombie killing`  `mean : make to kill zombies`
+
+> name of spoort : `baseball`  `mean : name of the sport the object make for`
+
+<h1 align="center"><img  src="https://cdna.artstation.com/p/assets/images/images/026/949/114/large/oskar-trochimowicz-ss1.jpg?1590165949" style="object-fit:scale-down;width:500px;"/></h1>
+
 
