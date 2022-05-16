@@ -4,6 +4,8 @@
 
 ### "Adjective are words we use to describe noun on one specific thing (distinct from others)"
 
+> noun is a word that refers to a thing (book), a person (Betty Crocker), an animal (cat), a place (Omaha), a quality (softness), an idea (justice), or an action (yodeling). It's usually a single word, but not always: cake, shoes, school bus, and time and a half are all nouns.
+
 ### example : 1
 
 > tallness: describing some how tall a person is an "Adjective"
