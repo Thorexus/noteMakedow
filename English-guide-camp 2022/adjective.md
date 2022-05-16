@@ -192,14 +192,20 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
 ```text
   This is the first time we will meet the Martian man.
 ```
-> adjective : `Martian`  `mean : a race of people who lives on Mars`
+> proper adjective : `Martian`  `mean : a race of people who lives on Mars`
+<h1 align="center"><img  src="https://www.slashfilm.com/img/gallery/10-things-you-didnt-know-about-martian-manhunter/intro-1626909470.webp" style="object-fit:scale-down;width:500px;"/></h1>
+
 ### example : 12 : name of nationalities
 ```text
   That Spanish man always has a crossbow with him.
 ```
+> proper adjective : `Spanish`  `mean : a race of people who speak in a language use in Spain`
+<h1 align="center"><img  src="https://i.ibb.co/9TzCWcX/pngegg.png" style="object-fit:scale-down;width:200px;"/></h1>
+
 ### example : 13 : the origin material
 ```text
-  Her green escape truck is very cool.
+  This is wooden baseball bat that used to be play 30 years ago.
 ```
+> proper adjective : `wooden`  `mean : something that made from wood`
 
-<h1 align="center"><img  src="https://cdn.hum3d.com/wp-content/uploads/2019/10/07/dystopian_zombie_truck.jpg" style="object-fit:scale-down;width:500px;"/></h1>
+
