@@ -259,4 +259,14 @@ Purpose or Qualifier can be name of sport or verb describing its function.
   Z-Boy will be our example and helping you to better you skill at using adjective.
 ```
 
+```text
+  let start with Describe his overall look.
+```
+
+> by using : `derterminer`  `quality or opinion` `age` `color`
+
+```text
+  He is a thin smaill young light green zombie.
+```
+
 
