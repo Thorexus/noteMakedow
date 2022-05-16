@@ -137,7 +137,7 @@ Kite
 Polygons
 
 > Shape can be 2 dimensions (2D) or 3 dimensions (3D)
-<h1 align="center"><img  src="https://i.ibb.co/z6n9qkP/shape.png" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
+<h1 align="center"><img  src="https://i.ibb.co/z6n9qkP/shape.png" style="object-fit:scale-down;width:500px;"/></h1>
 
 ### example : 9
 
