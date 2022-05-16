@@ -266,7 +266,30 @@ Purpose or Qualifier can be name of sport or verb describing its function.
 > by using : `derterminer`  `quality or opinion` `age` `color`
 
 ```text
-  He is a thin smaill young light green zombie.
+  He is a thin small young light green zombie.
 ```
+
+## now let us try some exercise
+
+### ex.1 please describe the color of Z-Boy clothes.
+
+> Interesting vocabulary : `shorts` `t-shirt` `tennis shoes`
+
+> Answer : 
+
+### ex.2 please describe what Z-boy looks like.
+
+> Interesting vocabulary : `tongue` `wound` `skin`
+
+> Answer : 
+
+# homework 
+```text
+    > please design your own version of Z-Boy and describe him using as much adjectives as you can.
+```
+
+
+
+
 
 
