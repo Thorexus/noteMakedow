@@ -11,6 +11,7 @@
 ```text
     The tall man walking into the room.
 ```
+> adjective : `tall`
 
 > Now that the person you are talking to getting the knowledge of who to look at <span style="color:DarkCyan">or</span> to look out for.
 
@@ -23,6 +24,7 @@
 ```text
     The tall white mask and suited man walking in the room.
 ```
+> adjective : `tall` `white` `suited`
 
 <h1 align="center"><img  src="https://i.ibb.co/89KBk39/suit-white-mask.png" style="object-fit:scale-down;width:200px;;"/></h1>
 
@@ -44,12 +46,13 @@
 
 > **_NOTE:_**  if there are more than 1 noun being describe, we will most likely not using "Determiner"
 
+
 ### example : 3
 
 ```text
     The one eyed zombie just stand still.
 ```
-
+> determiner adjective : `The` `the : use for specific thing which only one of the existed like the "sun"`
 <h1 align="center"><img  src="https://i.ibb.co/T821LDn/suit-white-mask.png"    style="object-fit:scale-down;width:270px;height:270px;"/></h1>
 
 ## 2. Quanity or Number
@@ -63,6 +66,7 @@
 ```text
     This is Jenny's four wheels escape car.
 ```
+> quanity adjective : `four` `four : number`
 
 <h1 align="center"><img  src="https://i.ibb.co/wNXMNwV/drive.jpg"    style="object-fit:scale-down;width:600px;height:250px;"/></h1>
 
@@ -77,8 +81,9 @@
 ```text
     This is John's strong escape monster truck.
 ```
+> quality adjective : `strong` `strong : describe the object or person is very hard to break`
 
-<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:500px;height:475px;"/></h1>
+<h1 align="center"><img  src="https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/BKUsrKAWNaa2U_LrBzUEO-mYtYo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/5SI7KFRAINBWBIQ5GS2PBQBK2M.jpeg"    style="object-fit:scale-down;width:500px;"/></h1>
 
 ## 4. Size
 
@@ -93,6 +98,7 @@
 ```text
     This is a medium iron stick.
 ```
+> size adjective : `medium` `medium : size which is in between of small and large`
 
 <h1 align="center"><img  src="https://www.skyhi.me.uk/image/cache/catalog/Products/Fetish/But-Truncheon/American-Baseball-Bat-Long-2-400x537w.jpg" style="object-fit:scale-down;width:500px;height:475px;"/></h1>
 
@@ -108,8 +114,9 @@
 
 ```text
     Qusetion : When was the day your son first spoken?
-    Answer : He start speaking in the age of 2.
+    Answer : He start speaking when he was a 2 year old baby.
 ```
+> age adjective : `2 year old` `2 year old : the age of 2`
 
 <h1 align="center"><img  src="https://images.squarespace-cdn.com/content/v1/582895e029687f3584663597/1514919557150-U4NW2YCT83RRBAE2BG3L/ballet-body-sculture-anti-aging" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
 
@@ -118,6 +125,7 @@
 ```text
    I am an old man I might slow you down.
 ```
+> age adjective : `old` `old : existed for long length of time`
 
 <h1 align="center"><img  src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12AD9/production/_112950567_6.jpg" style="object-fit:scale-down;width:600px;height:250px;"/></h1>
 
@@ -144,7 +152,7 @@ Polygons
 ```text
    This is midnight news we are looking at the circular object in the sky right now.
 ```
-
+> shape adjective : `circular` `circular : 3 dimensions object of a circle`
 <h1 align="center"><img  src="https://cdn.images.express.co.uk/img/dynamic/80/750x445/1128973.jpg" style="object-fit:scale-down;width:500px;height:250px;"/></h1>
 
 ## 7. Color
@@ -176,6 +184,7 @@ Gray
 ```text
   Her green escape truck is very cool.
 ```
+> color adjective : `green`
 
 <h1 align="center"><img  src="https://cdn.hum3d.com/wp-content/uploads/2019/10/07/dystopian_zombie_truck.jpg" style="object-fit:scale-down;width:500px;"/></h1>
 
@@ -207,5 +216,6 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
   This is wooden baseball bat that used to be play 30 years ago.
 ```
 > proper adjective : `wooden`  `mean : something that made from wood`
+<h1 align="center"><img  src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" style="object-fit:scale-down;width:200px;"/></h1>
 
 
