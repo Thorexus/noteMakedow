@@ -217,7 +217,7 @@ Proper adjective can be : name of country/planet origin, name of nationalities, 
 ```
 > proper adjective : `wooden`  `mean : something that made from wood`
 
-<a href="https://ibb.co/B4ZVPkc"><img src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" alt="dlf-pt-bryce-harper-png-5759733" border="0"></a>
+<h1 align="center"><img  src="https://i.ibb.co/f8pYSJq/dlf-pt-bryce-harper-png-5759733.png" style="object-fit:scale-down;width:200px;"/></h1>
 
 ## 7. Purpose or Qualifier
 
@@ -248,5 +248,15 @@ Purpose or Qualifier can be name of sport or verb describing its function.
 > name of spoort : `baseball`  `mean : name of the sport the object make for`
 
 <h1 align="center"><img  src="https://cdna.artstation.com/p/assets/images/images/026/949/114/large/oskar-trochimowicz-ss1.jpg?1590165949" style="object-fit:scale-down;width:500px;"/></h1>
+
+# <p align="center" style="color:CornflowerBlue">Now! let put you knowledge to use</p>
+
+### <p align="center" style="color:CornflowerBlue">Please welcome Z-Boy</p>
+
+<h1 align="center"><img  src="https://i.ibb.co/z8ZK5zp/Attack-1.png" style="object-fit:scale-down;width:400px;"/></h1>
+
+```text
+  Z-Boy will be our example and helping you to better you skill at using adjective.
+```
 
 
